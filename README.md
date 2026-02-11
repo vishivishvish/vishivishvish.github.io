@@ -56,7 +56,7 @@ Any commit to `main` updates the live site.
 
 This site is part of a much larger experiment.
 
-I am a 100% **RSI-pilled (Recursive Self-Improvement)** AI Engineer, so this repository is designed to eventually move beyond static authorship. Over time, it is intended to reach the **OpenClaw stage**: autonomous agents will propose changes to the codebase, submit pull requests, and improve the site incrementally — with my human review and approval acting as the safety and alignment layer.
+I am a **100% RSI-pilled (Recursive Self-Improvement)** 🤯 AI Engineer, so this repository is designed to eventually move beyond static authorship. Over time, it is intended to reach the **OpenClaw stage**: autonomous agents will propose changes to the codebase, submit pull requests, and improve the site incrementally — with my human review and approval acting as the safety and alignment layer.
 
 In other words, this website is meant to **update itself**.
 
