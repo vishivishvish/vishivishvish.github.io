@@ -92,16 +92,18 @@ Some initial domains I've selected from a life's worth of being in love with Sci
 - 🌌 **Engineering Physics & Astronomy**
 - ⚛️ **Quantum Computing**
 
-This list is not fixed either — it is expected to evolve.
+The list itself is not fixed either — it's expected to evolve in the future.
 
 What this crucially boils down to is - the **agentic learning process itself** is also undergoing a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields (as well as a growing list of fields themselves) to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**, and the only real bottleneck appears to be the agents' own context limitations & memory.
 
 This repository is therefore not just a website. 
 It represents something more - a slice of the RSI Sci-Fi dream that's taken off at frontier AI labs worldwide.
+What a time to be alive.
 
 Where all that ultimately leads for this site - I don't know. What’s already in motion, though, is a growing stack of learning notes, GitHub repositories, experiments, and research artifacts — all feeding back into how my agents learn and improve. The whole thing is also being built on locally hosted, open-source LLMs and consumer hardware, with no recurring platform rent and no magic black boxes. I couldn't even dream of creating something like this 5 years ago.
 
-True RSI or not, this is easily the most ambitious (and frankly, the most fun) system I’ve ever tried to build. I just hope I can do it the justice it deserves and continually maintain it.
+True RSI or not, this is easily the most ambitious (and frankly, the most fun) system I’ve ever tried to build. 
+I just hope I can do it the justice it deserves and continually maintain it.
 
 ---
 
