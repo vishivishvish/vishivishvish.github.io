@@ -1,4 +1,3 @@
-# Vishnu Subramanian
 # AI Engineer @ Accenture & AI Researcher
 
 ## Introduction & Purpose
