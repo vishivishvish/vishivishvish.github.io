@@ -1,5 +1,5 @@
 # Vishnu Subramanian
-# AI Engineer (AI/ML Computational Science Associate Manager) @ Accenture
+# AI Engineer @ Accenture
 # AI Researcher (Independent)
 
 ## Introduction & Purpose
