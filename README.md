@@ -1,27 +1,21 @@
-# vishivishvish.github.io
+## Introduction & Purpose
 
-This repository hosts my personal website, built and deployed using GitHub Pages.
+This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
 
-The site serves as a living portfolio of:
+This site will serve as a living portfolio of:
 - ideas
 - projects
 - experiments
 - notes
 - long-form thinking
 
-It is intentionally minimal, transparent, and version-controlled.
-
----
-
-## Purpose
-
-This website is not just a showcase — it is an evolving system.
-
 The goals are to:
 - document professional and personal work in a durable, inspectable way
 - practice disciplined use of Git, GitHub, and pull-request–based workflows
 - treat writing, research, and engineering artifacts as first-class code
 - provide a stable public surface for long-term projects
+
+The site is currently & intentionally minimal, transparent, and version-controlled.
 
 Over time, this site will grow alongside my skills and interests.
 
@@ -45,18 +39,6 @@ A few guiding principles:
 
 ---
 
-## Structure (initial)
-
-/
-├── index.html # Main landing page
-├── style.css # Global styles
-├── README.md # This document
-
-
-Additional sections (e.g. ideas, projects, research, agents) will be added incrementally.
-
----
-
 ## Deployment
 
 The site is deployed via GitHub Pages.
@@ -69,19 +51,57 @@ Any commit to `main` updates the live site.
 
 ---
 
-## Notes on evolution
+## Notes on Evolution
 
-This repository may later be used as:
-- a testbed for automation
-- a target for CLI tooling
-- an interface for agent-driven pull requests
+This site is part of a much larger experiment.
 
-Changes will be deliberate and reviewable.
+I am a 100% **RSI-pilled (Recursive Self-Improvement)** AI Engineer, so this repository is designed to eventually move beyond static authorship. Over time, it is intended to reach the **OpenClaw stage**: autonomous agents will propose changes to the codebase, submit pull requests, and improve the site incrementally — with my human review and approval acting as the safety and alignment layer.
+
+In other words, this website is meant to **update itself**.
+
+But, and here's the kickass part where it gets **meta**, the agents driving these updates are not operating in isolation. Their learning process is tightly coupled to my own exploratory research across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
+
+Some initial domains include:
+
+- 🧠 **Software Engineering & System Design**
+- 🖥️ **IT & Hardware Engineering**
+- 🔐 **Network Engineering & Cybersecurity**
+- 📊 **Statistical Data Analysis, Data Visualization & Database Management**
+- 🏗️ **Data Engineering & Big Data Technology**
+- 🤖 **Data Science, Machine Learning Mathematics & Research**
+- ☁️ **ML Engineering, Cloud Deployment & Productionization**
+- 🧩 **LLM, Generative AI & Agentic AI Technology**
+- ⚡ **GPU Programming**
+- 📐 **Mathematical Science & Engineering**
+- 🧮 **Abacus Mathematics**
+- 📜 **Vedic Mathematics**
+- 💹 **Quantitative Trading & Finance**
+- 📈 **Financial Analysis & Econometrics**
+- 🧬 **Biological Science & Engineering**
+- 🧠 **Neuroscience & Neuropsychology**
+- 🧠🤖 **Neuro-engineering & Brain-Machine Interfaces**
+- 🦾 **Robotics & Ground-based Autonomous Systems Engineering**
+- 🚁 **Drones & Autonomous Aerial Vehicle Design**
+- 🔌 **Electronics & Electrical Engineering**
+- 🧱 **Materials Science & Engineering**
+- ⚗️ **Chemistry & Chemical Engineering**
+- 🧪 **Nanotechnology & Nanomaterials Engineering**
+- 🚀 **Rocket Engineering**
+- 🛰️ **Satellite & Space Systems Engineering**
+- 🌌 **Engineering Physics & Astronomy**
+- ⚛️ **Quantum Computing**
+
+This list is not fixed — it is expected to evolve.
+
+What this crucially boils down to is - the **agentic learning process itself** is also undergoing recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
+
+This repository is therefore not just a website.
+
+It is a substrate for:
+- versioned thinking
+- agent-assisted creation
+- and long-horizon intellectual compounding
+
+You are seeing it early.
 
 ---
-
-## License
-
-Content is © Vishnu Subramanian unless otherwise noted.
-Code samples may be reused with attribution.
-
