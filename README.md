@@ -1,6 +1,5 @@
 # Vishnu Subramanian
-# AI Engineer @ Accenture
-# AI Researcher (Independent)
+# AI Engineer @ Accenture & AI Researcher
 
 ## Introduction & Purpose
 
