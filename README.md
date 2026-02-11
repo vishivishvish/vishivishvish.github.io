@@ -106,9 +106,9 @@ In effect, this will create a feedback loop where **the first derivative of lear
 
 This repository is therefore not just a website. 
 
-It represents something more - a slice of the RSI Sci-Fi dream that's taken off at frontier AI labs worldwide.
+It represents something more - **a slice of the RSI Sci-Fi dream that's taken off at frontier AI labs worldwide**.
 
-What a time to be alive.
+***What a time to be alive.***
 
 Where all that ultimately leads for this site - I don't know. 
 
