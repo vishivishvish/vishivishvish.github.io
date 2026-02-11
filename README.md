@@ -1,3 +1,7 @@
+# Vishnu Subramanian
+# AI Engineer (AI/ML Computational Science Associate Manager) @ Accenture
+# AI Researcher (Independent)
+
 ## Introduction & Purpose
 
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
