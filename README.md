@@ -1,4 +1,4 @@
-# AI Engineer @ Accenture & AI Researcher
+# AI Engineer @ Accenture / AI Researcher
 
 ## Introduction & Purpose
 
