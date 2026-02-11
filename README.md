@@ -94,7 +94,7 @@ Some initial domains include:
 
 This list is not fixed — it is expected to evolve.
 
-What this crucially boils down to is - the **agentic learning process itself** is also a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
+What this crucially boils down to is - the **agentic learning process itself** is also undergoing a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
 
 This repository is therefore not just a website.
 
