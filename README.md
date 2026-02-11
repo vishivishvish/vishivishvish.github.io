@@ -60,9 +60,9 @@ I am a **100% RSI-pilled (Recursive Self-Improvement)** 🤯 AI Engineer, so thi
 
 In other words, this website is meant to **update itself**.
 
-But, and here's the kickass part where it gets **meta**, the agents driving these updates are not operating in isolation. Their learning process is tightly coupled to my own exploratory research across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
+But, and here's the kickass part where it gets even more ***meta*** - the agents driving these updates are not operating in isolation. Their learning process is tightly coupled to my own exploratory research across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
 
-Some initial domains include:
+Some initial domains I've selected from a life's worth of being in love with Science & Technology:
 
 - 🧠 **Software Engineering & System Design**
 - 🖥️ **IT & Hardware Engineering**
@@ -92,27 +92,18 @@ Some initial domains include:
 - 🌌 **Engineering Physics & Astronomy**
 - ⚛️ **Quantum Computing**
 
-This list is not fixed — it is expected to evolve.
+This list is not fixed either — it is expected to evolve.
 
-What this crucially boils down to is - the **agentic learning process itself** is also undergoing a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
+What this crucially boils down to is - the **agentic learning process itself** is also undergoing a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields (as well as a growing list of fields themselves) to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**, and the only real bottleneck appears to be the agents' own context limitations & memory.
 
-This repository is therefore not just a website.
+This repository is therefore not just a website. It represents something much, much more - a microcosm of the RSI dream that's kicked off at the frontier of worldwide AI.
 
-It is a substrate for:
-- versioned thinking
-- agent-assisted creation
-- and long-horizon intellectual compounding
-
-Where this ultimately leads is anyone’s guess.
-
-What’s already in motion, though, is a growing stack of learning notes, GitHub repositories, experiments, and research artifacts — all feeding back into how my agents learn and improve. The whole thing is being built on locally hosted, open-source LLMs and consumer hardware, with no recurring platform rent and no magic black boxes.
+Where this ultimately leads for this site - I don't know. What’s already in motion, though, is a growing stack of learning notes, GitHub repositories, experiments, and research artifacts — all feeding back into how my agents learn and improve. The whole thing is also being built on locally hosted, open-source LLMs and consumer hardware, with no recurring platform rent and no magic black boxes.
 
 True RSI or not, this is easily the most ambitious (and frankly, the most fun) system I’ve ever tried to build.
-
-You are seeing it early.
 
 ---
 
 ## Credits
 
-Authored (mostly) by GPT-5.2 with some prodding from me
+Authored (mostly) by LLMs with some prodding from me
