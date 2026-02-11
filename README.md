@@ -3,17 +3,17 @@
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
 
 This site will serve as a living portfolio of:
-- ideas
-- projects
-- experiments
-- notes
-- long-form thinking
+- 💡 ideas
+- 🛠️ projects
+- 🧪 experiments
+- 📝 notes
+- 📚 long-form thinking
 
 The goals are to:
-- document professional and personal work in a durable, inspectable way
-- practice disciplined use of Git, GitHub, and pull-request–based workflows
-- treat writing, research, and engineering artifacts as first-class code
-- provide a stable public surface for long-term projects
+- 🧱 document professional and personal work in a durable, inspectable way
+- 🌱 practice disciplined use of Git, GitHub, and pull-request–based workflows
+- 🧬 treat writing, research, and engineering artifacts as first-class code
+- 🧭 provide a stable public surface for long-term projects
 
 The site is currently & intentionally minimal, transparent, and version-controlled.
 
@@ -25,16 +25,16 @@ Over time, this site will grow alongside my skills and interests.
 
 A few guiding principles:
 
-- **Clarity over polish**  
+- ✨ **Clarity over polish**  
   Simple HTML, CSS, and content-first design.
 
-- **Versioned thinking**  
+- 🧠 **Versioned thinking**  
   Ideas evolve; Git history captures that evolution.
 
-- **Minimal abstraction**  
+- 🪶 **Minimal abstraction**  
   No frameworks initially — fundamentals first.
 
-- **Future-compatible**  
+- 🚀 **Future-compatible**  
   Designed to integrate with automation, tooling, and agentic workflows later.
 
 ---
@@ -43,9 +43,10 @@ A few guiding principles:
 
 The site is deployed via GitHub Pages.
 
-- Source: `main` branch
-- Folder: `/ (root)`
-- URL: https://vishivishvish.github.io
+- 🌿 Source: `main` branch
+- 📂 Folder: `/ (root)`
+- 🌐 URL: https://vishivishvish.github.io
+
 
 Any commit to `main` updates the live site.
 
@@ -93,7 +94,7 @@ Some initial domains include:
 
 This list is not fixed — it is expected to evolve.
 
-What this crucially boils down to is - the **agentic learning process itself** is also undergoing recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
+What this crucially boils down to is - the **agentic learning process itself** is also a form of recursive self-improvement. While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated. In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**.
 
 This repository is therefore not just a website.
 
@@ -102,6 +103,16 @@ It is a substrate for:
 - agent-assisted creation
 - and long-horizon intellectual compounding
 
+Where this ultimately leads is anyone’s guess.
+
+What’s already in motion, though, is a growing stack of learning notes, GitHub repositories, experiments, and research artifacts — all feeding back into how my agents learn and improve. The whole thing is being built on locally hosted, open-source LLMs and consumer hardware, with no recurring platform rent and no magic black boxes.
+
+True RSI or not, this is easily the most ambitious (and frankly, the most fun) system I’ve ever tried to build.
+
 You are seeing it early.
 
 ---
+
+## Credits
+
+Authored (mostly) by GPT-5.2 with some prodding from me
