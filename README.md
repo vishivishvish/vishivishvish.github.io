@@ -66,7 +66,7 @@ In other words, this website is meant to **update itself**.
 
 But, and here's the kickass part where it gets even more ***meta*** - the agents driving these updates are not operating in isolation. 
 
-Their learning process is tightly coupled to my own exploratory research across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
+**Their learning process is tightly coupled to my own exploratory research** across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
 
 Some initial domains I've selected from a life's worth of being in love with Science & Technology:
 
@@ -100,9 +100,9 @@ Some initial domains I've selected from a life's worth of being in love with Sci
 
 The list itself is not fixed either — it's expected to evolve in the future.
 
-What this crucially boils down to is - the **agentic learning process itself** is also undergoing a form of recursive self-improvement. 
+What this crucially boils down to is - the **agentic learning process itself is also undergoing a form of recursive self-improvement.** 
 
-While agents improve the codebase, they also utilize an ever-growing compendium of ideas from the above fields (as well as a growing list of fields themselves) to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. 
+While agents improve the codebase, they also utilize an **ever-growing compendium of ideas** from the above fields (as well as a growing list of fields themselves) to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. 
 
 In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**, and the only real bottleneck appears to be the agents' own context limitations & memory.
 
