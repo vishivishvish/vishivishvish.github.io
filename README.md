@@ -47,8 +47,7 @@ The site is deployed via GitHub Pages.
 
 - 🌿 Source: `main` branch
 - 📂 Folder: `/ (root)`
-- 🌐 URL: https://vishivishvish.github.io
-
+- 🌐 URL: https://vishivishvish.github.io 
 
 Any commit to `main` updates the live site.
 
@@ -58,17 +57,7 @@ Any commit to `main` updates the live site.
 
 This site is part of a much larger experiment.
 
-I am a **100% RSI-pilled (Recursive Self-Improvement)** 🤯 AI Engineer, so this repository will eventually move beyond static authorship. 
-
-Over time, it is intended to reach the stage where **autonomous agents will propose changes to the codebase, submit pull requests, and improve the site incrementally** — with my human review and approval acting as the safety and alignment layer.
-
-In other words, this website is meant to **update itself**.
-
-But, and here's the kickass part where it gets even more ***meta*** - the agents driving these updates are not operating in isolation. 
-
-**Their learning process is tightly coupled to my own exploratory research** across a wide and evolving set of scientific, engineering, and mathematical disciplines — areas that reflect both long-term professional goals and genuine intellectual curiosity.
-
-Some initial domains I've selected from a life's worth of being in love with Science & Technology:
+Since I was a kid, I’ve wanted to pursue the path of a true polymath — conducting exploratory research (and eventually development) across multiple scientific and engineering disciplines. Some of the domains currently driving that curiosity include:
 
 - 🧠 **Software Engineering & System Design**
 - 🖥️ **IT & Hardware Engineering**
@@ -98,34 +87,56 @@ Some initial domains I've selected from a life's worth of being in love with Sci
 - 🌌 **Engineering Physics & Astronomy**
 - ⚛️ **Quantum Computing**
 
-The list itself is not fixed either — it's expected to evolve in the future.
+This list is not fixed. It is expected to evolve — as interests deepen, intersect, and compound.
 
-What this crucially boils down to is - the **agentic learning process itself is also undergoing a form of recursive self-improvement.** 
+But the ambition goes one layer deeper.
 
-While agents improve the codebase, they also utilize an **ever-growing compendium of ideas** from the above fields (as well as a growing list of fields themselves) to refine how learning artifacts, research notes, and conceptual frameworks are generated, evaluated, and integrated into their self-improvement philosophy. 
+The knowledge gathered across these fields is not only for formal learning or note-taking (valuable as that already is). It is also being used to explore a meta-question:
 
-In effect, this will create a feedback loop where **the first derivative of learning quality itself improves over time**, and the only real bottleneck appears to be the agents' own context limitations & memory.
+**How does learning itself improve?**
 
-This repository is therefore not just a website. 
+In parallel, I am attempting three interconnected tracks:
 
-It represents something more - **a slice of the RSI Sci-Fi dream that's taken off at frontier AI labs worldwide**.
+1. **Conceptual track**  
+   Distill first principles about learning across disciplines — extracting patterns about abstraction, generalization, compression, and iteration. These become research artifacts in their own right.
 
-***What a time to be alive.***
+2. **Practical track**  
+   Build and experiment with a “learning baby_agent” — a codebase that ingests inputs, runs experiments, evolves behaviors, and generates research outputs. The code and resulting papers form a second layer of artifacts.
 
-Where all that ultimately leads for this site - I don't know. 
+3. **Recursive track**  
+   Use all accumulated artifacts — learning notes, conceptual frameworks, evolving agent code, and research papers — to inform another agent that suggests improvements to the learning paradigm itself.
 
-What’s already in motion, though, is a growing stack of learning notes, GitHub repositories, experiments, and research artifacts — all feeding back into how my agents learn and improve. 
+This is the attempt to **close the loop**.
 
-The whole thing is also being built on locally hosted, open-source LLMs and consumer hardware, with no recurring platform rent and no magic black boxes. 
+In other words: a grounded exploration of **Recursive Self-Improvement (RSI)** — not as fantasy, but as an engineering discipline.
 
-I couldn't even dream of creating something like this 5 years ago.
+Over time, this repository is intended to move beyond static authorship. Autonomous agents will propose code changes, submit pull requests, and incrementally improve both the website and the learning systems behind it — with human review acting as the alignment and safety layer.
 
-True RSI or not, this is easily the most ambitious (and frankly, the most fun) system I’ve ever tried to build. 
+The key is that the agents are not isolated optimizers.  
+Their learning is tightly coupled to my own exploratory research across these evolving disciplines.
 
-I just hope I can do it the justice it deserves and continually maintain it.
+As the knowledge base grows, the agents gain access to a richer conceptual substrate.  
+As the agents improve, they help refine how that knowledge is structured, tested, and integrated.
 
----
+The feedback loop strengthens.
 
-## Credits
+If this works, the system approaches a state where **the rate of learning itself improves over time** — constrained primarily by context limits, compute, and disciplined execution.
 
-Authored (mostly) by GPT-5.2 with some prodding from me
+This repository, then, is not merely a portfolio site.
+
+It is an evolving substrate for:
+- long-horizon intellectual compounding
+- agent-assisted research
+- and an engineering-first exploration of RSI
+
+Where this ultimately leads is impossible to predict.
+
+What is already in motion, however, is a growing stack of notes, repositories, experiments, and research artifacts — all feeding back into how these agents learn and improve.
+
+The entire system is being built on locally hosted, open-source LLMs and consumer hardware — no recurring platform rent, no hidden black boxes.
+
+Five years ago, this would have been out of reach.
+
+True RSI or not, this is easily the most ambitious — and most fun — system I’ve ever tried to build.
+
+Let’s see how far it goes.
