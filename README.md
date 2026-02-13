@@ -57,7 +57,7 @@ Any commit to `main` updates the live site.
 
 This site is part of a much larger experiment.
 
-Since I was a kid, I’ve wanted to pursue the path of a true polymath — conducting exploratory research (and eventually development) across multiple scientific and engineering disciplines. Some of the domains currently driving that curiosity include:
+Since I was a kid, I’ve wanted to pursue the path of a true polymath: conducting exploratory research (and eventually development) across multiple scientific and engineering disciplines. Some of the domains currently driving that curiosity include:
 
 - 🧠 **Software Engineering & System Design**
 - 🖥️ **IT & Hardware Engineering**
@@ -87,7 +87,7 @@ Since I was a kid, I’ve wanted to pursue the path of a true polymath — condu
 - 🌌 **Engineering Physics & Astronomy**
 - ⚛️ **Quantum Computing**
 
-This list is not fixed. It is expected to evolve — as interests deepen, intersect, and compound.
+This list is not fixed. It is expected to evolve as interests deepen, intersect, and compound.
 
 But the ambition goes one layer deeper.
 
@@ -98,19 +98,19 @@ The knowledge gathered across these fields is not only for formal learning or no
 In parallel, I am attempting three interconnected tracks:
 
 1. **Conceptual track**  
-   Distill first principles about learning across disciplines — extracting patterns about abstraction, generalization, compression, and iteration. These become research artifacts in their own right.
+   Distill first principles about learning across disciplines, and extract patterns about abstraction, generalization, compression, and iteration. These become research artifacts in their own right.
 
 2. **Practical track**  
    Build and experiment with a “learning baby_agent” — a codebase that ingests inputs, runs experiments, evolves behaviors, and generates research outputs. The code and resulting papers form a second layer of artifacts.
 
 3. **Recursive track**  
-   Use all accumulated artifacts — learning notes, conceptual frameworks, evolving agent code, and research papers — to inform another agent that suggests improvements to the learning paradigm itself.
+   Use all accumulated artifacts: learning notes, conceptual frameworks, evolving agent code, and research papers, to inform another agent that suggests improvements to the learning paradigm itself.
 
 This is the attempt to **close the loop**.
 
-In other words: a grounded exploration of **Recursive Self-Improvement (RSI)** — not as fantasy, but as an engineering discipline.
+In other words: a grounded exploration of **Recursive Self-Improvement (RSI)**, not as fantasy, but as an engineering discipline.
 
-Over time, this repository is intended to move beyond static authorship. Autonomous agents will propose code changes, submit pull requests, and incrementally improve both the website and the learning systems behind it — with human review acting as the alignment and safety layer.
+Over time, this repository is intended to move beyond static authorship. Autonomous agents will propose code changes, submit pull requests, and incrementally improve both the website and the learning systems behind it, with human review acting as the alignment and safety layer.
 
 The key is that the agents are not isolated optimizers.  
 Their learning is tightly coupled to my own exploratory research across these evolving disciplines.
@@ -131,12 +131,12 @@ It is an evolving substrate for:
 
 Where this ultimately leads is impossible to predict.
 
-What is already in motion, however, is a growing stack of notes, repositories, experiments, and research artifacts — all feeding back into how these agents learn and improve.
+What is already in motion, however, is a growing stack of notes, repositories, experiments, and research artifacts, all feeding back into how these agents learn and improve.
 
-The entire system is being built on locally hosted, open-source LLMs and consumer hardware — no recurring platform rent, no hidden black boxes.
+The entire system is being built on locally hosted, open-source LLMs and consumer hardware - no recurring platform rent, no hidden black boxes.
 
-Five years ago, this would have been out of reach.
+Five years ago, this would have been dismissed as fantasy. That speaks volumes of how the AI Industry has been moving ahead at warp speed these last few years.
 
-True RSI or not, this is easily the most ambitious — and most fun — system I’ve ever tried to build.
+True RSI or not, this is easily the most ambitious, and most fun, system I’ve ever tried to build.
 
 Let’s see how far it goes.
