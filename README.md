@@ -141,9 +141,13 @@ True RSI or not, this is easily the most ambitious, and most fun, system I’ve 
 
 Let’s see how far it goes.
 
+---
+
 ## Research
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
 
 #### Citation
 Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.18663806
+
+---
