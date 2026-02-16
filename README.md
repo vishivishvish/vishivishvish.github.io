@@ -94,78 +94,74 @@ It is about ***structuring learning itself***.
 
 The system is organized into five interconnected tracks:
 
-### X.0 — Formal Learning Track
+### 📘 X.0 — Formal Learning Track
 
-A structured, mathematically grounded academic spine. 
-
+A structured, mathematically grounded academic spine.  
 Notes, problem sets, derivations, and long-form technical write-ups live here.
 
-### X.1 — Conceptual Learning Track  
+### 🧠 X.1 — Conceptual Learning Track  
 
-Extraction of first principles about learning itself: abstraction, generalization, compression, representation, iteration. 
-
+Extraction of first principles about learning itself: abstraction, generalization, compression, representation, iteration.  
 This is where meta-learning theory is distilled into research artifacts.
 
-### X.2 — Agent Learning Track  
+### 🤖 X.2 — Agent Learning Track  
 
-An evolving “baby_agent” codebase that ingests inputs, runs experiments, and produces measurable outputs.
-
+An evolving “baby_agent” codebase that ingests inputs, runs experiments, and produces measurable outputs.  
 This is where theory meets implementation.
 
-### X.3 — Agent Learning Research Track 
+### 📄 X.3 — Agent Learning Research Track 
 
 Formal research papers derived from X.2 experiments.  
-
 These are published artifacts — versioned, citable, and public.
 
-### X.4 — Agent Trading Track  
+### 📈 X.4 — Agent Trading Track  
 
 An applied extension exploring decision systems in financial environments, emphasizing disciplined experimentation and engineering rigor.
 
-### X.5 — Recursive Self-Improvement Track  
+### 🔁 X.5 — Recursive Self-Improvement Track  
 
 The integrator.  
-
 This track consumes outputs from X.0 through X.4 and proposes improvements to the learning agents and trading agents themselves.
 
-This is the attempt to **close the loop**. 
+This is the attempt to **close the loop** 🔄  
 
-A grounded exploration of **Recursive Self-Improvement (RSI)** as an engineering discipline - disciplined, reviewable, pull-request–based iteration.
+A grounded exploration of **Recursive Self-Improvement (RSI)** as an engineering discipline — disciplined, reviewable, pull-request–based iteration.
 
 Over time, autonomous agents will:
-- propose code changes,
-- submit pull requests,
-- suggest architectural improvements,
-- and refine learning paradigms,
+- 🛠️ propose code changes  
+- 🔀 submit pull requests  
+- 🏗️ suggest architectural improvements  
+- 🧭 refine learning paradigms  
 
 with human review acting as the alignment and safety layer.
 
-***As knowledge accumulates across disciplines***, the agents gain access to a **richer conceptual substrate**.  
+***As knowledge accumulates across disciplines*** 📚, the agents gain access to a **richer conceptual substrate**.  
 
-As the agents improve, they refine how that knowledge is structured and integrated. The feedback loop strengthens.
+As the agents improve, they refine how that knowledge is structured and integrated.  
+The feedback loop strengthens 🔁
 
-If successful, the system approaches a state where **the rate of learning itself improves over time** — constrained primarily by compute, context limits, and disciplined execution.
+If successful, the system approaches a state where **the rate of learning itself improves over time** ⬆️ — constrained primarily by compute, context limits, and disciplined execution.
 
 This repository, then, is not merely a portfolio site.
 
 It is an evolving substrate for:
-- long-horizon intellectual compounding
-- agent-assisted research
-- and an engineering-first exploration of RSI
+- 📈 long-horizon intellectual compounding  
+- 🤝 agent-assisted research  
+- 🧩 an engineering-first exploration of RSI  
 
 Where this ultimately leads is impossible to predict.
 
-What is already in motion, however, is a growing stack of notes, repositories, experiments, and research artifacts, all feeding back into how these agents learn and improve.
+What is already in motion, however, is a growing stack of notes, repositories, experiments, and research artifacts — all feeding back into how these agents learn and improve.
 
-The entire system is being built on locally hosted, open-source LLMs and consumer hardware - no recurring platform rent, no hidden black boxes.
+Five years ago, _this would have been dismissed as fantasy_.  
+Today, it is an ***engineering problem*** 🛠️
 
-Five years ago, _this would have been dismissed as fantasy_. Today, it is an ***engineering problem***. 
+That speaks volumes about how quickly the AI industry has advanced.
 
-That speaks volumes of how the AI Industry has been moving ahead at warp speed these last few years.
+True RSI or not, this is easily the most ambitious — and most fun — system I’ve ever tried to build.
 
-True RSI or not, this is easily the most ambitious, and most fun, system I’ve ever tried to build.
+Let’s see how far it goes 🚀
 
-Let’s see how far it goes.
 
 ---
 
@@ -190,6 +186,7 @@ I'm now publishing outputs from this project!
 Peer-reviewed and public research outputs derived from Project X, published and archived.
 
 #### Citation
-Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.18663806
+Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. 
+Zenodo. https://doi.org/10.5281/zenodo.18663806
 
 ---
