@@ -55,7 +55,7 @@ Any commit to `main` updates the live site.
 
 ## Notes on Evolution
 
-This site is part of a much larger experiment.
+This site is part of a much larger experiment I'm calling Project X.
 
 Since I was a kid, I’ve wanted to pursue the path of a true polymath: conducting exploratory research (and eventually development) across multiple scientific and engineering disciplines. Some of the domains currently driving that curiosity include:
 
@@ -89,38 +89,62 @@ Since I was a kid, I’ve wanted to pursue the path of a true polymath: conducti
 
 This list is not fixed. It is expected to evolve as interests deepen, intersect, and compound.
 
-But the ambition goes one layer deeper.
+But Project X is not *just* about breadth of knowledge.  
+It is about ***structuring learning itself***.
 
-The knowledge gathered across these fields is not only for formal learning or note-taking (valuable as that already is). It is also being used to explore a meta-question:
+The system is organized into five interconnected tracks:
 
-**How does learning itself improve?**
+### X.0 — Formal Learning Track
 
-In parallel, I am attempting three interconnected tracks:
+A structured, mathematically grounded academic spine. 
 
-1. **Conceptual track**  
-   Distill first principles about learning across disciplines, and extract patterns about abstraction, generalization, compression, and iteration. These become research artifacts in their own right.
+Notes, problem sets, derivations, and long-form technical write-ups live here.
 
-2. **Practical track**  
-   Build and experiment with a “learning baby_agent” — a codebase that ingests inputs, runs experiments, evolves behaviors, and generates research outputs. The code and resulting papers form a second layer of artifacts.
+### X.1 — Conceptual Learning Track  
 
-3. **Recursive track**  
-   Use all accumulated artifacts: learning notes, conceptual frameworks, evolving agent code, and research papers, to inform another agent that suggests improvements to the learning paradigm itself.
+Extraction of first principles about learning itself: abstraction, generalization, compression, representation, iteration. 
 
-This is the attempt to **close the loop**.
+This is where meta-learning theory is distilled into research artifacts.
 
-In other words: a grounded exploration of **Recursive Self-Improvement (RSI)**, not as fantasy, but as an engineering discipline.
+### X.2 — Agent Learning Track  
 
-Over time, this repository is intended to move beyond static authorship. Autonomous agents will propose code changes, submit pull requests, and incrementally improve both the website and the learning systems behind it, with human review acting as the alignment and safety layer.
+An evolving “baby_agent” codebase that ingests inputs, runs experiments, and produces measurable outputs.
 
-The key is that the agents are not isolated optimizers.  
-Their learning is tightly coupled to my own exploratory research across these evolving disciplines.
+This is where theory meets implementation.
 
-As the knowledge base grows, the agents gain access to a richer conceptual substrate.  
-As the agents improve, they help refine how that knowledge is structured, tested, and integrated.
+### X.3 — Agent Learning Research Track 
 
-The feedback loop strengthens.
+Formal research papers derived from X.2 experiments.  
 
-If this works, the system approaches a state where **the rate of learning itself improves over time** — constrained primarily by context limits, compute, and disciplined execution.
+These are published artifacts — versioned, citable, and public.
+
+### X.4 — Agent Trading Track  
+
+An applied extension exploring decision systems in financial environments, emphasizing disciplined experimentation and engineering rigor.
+
+### X.5 — Recursive Self-Improvement Track  
+
+The integrator.  
+
+This track consumes outputs from X.0 through X.4 and proposes improvements to the learning agents and trading agents themselves.
+
+This is the attempt to **close the loop**. 
+
+A grounded exploration of **Recursive Self-Improvement (RSI)** as an engineering discipline - disciplined, reviewable, pull-request–based iteration.
+
+Over time, autonomous agents will:
+- propose code changes,
+- submit pull requests,
+- suggest architectural improvements,
+- and refine learning paradigms,
+
+with human review acting as the alignment and safety layer.
+
+***As knowledge accumulates across disciplines***, the agents gain access to a **richer conceptual substrate**.  
+
+As the agents improve, they refine how that knowledge is structured and integrated. The feedback loop strengthens.
+
+If successful, the system approaches a state where **the rate of learning itself improves over time** — constrained primarily by compute, context limits, and disciplined execution.
 
 This repository, then, is not merely a portfolio site.
 
@@ -135,7 +159,9 @@ What is already in motion, however, is a growing stack of notes, repositories, e
 
 The entire system is being built on locally hosted, open-source LLMs and consumer hardware - no recurring platform rent, no hidden black boxes.
 
-Five years ago, this would have been dismissed as fantasy. That speaks volumes of how the AI Industry has been moving ahead at warp speed these last few years.
+Five years ago, _this would have been dismissed as fantasy_. Today, it is an ***engineering problem***. 
+
+That speaks volumes of how the AI Industry has been moving ahead at warp speed these last few years.
 
 True RSI or not, this is easily the most ambitious, and most fun, system I’ve ever tried to build.
 
@@ -147,7 +173,9 @@ Let’s see how far it goes.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
 
-I've started publishing outputs from this project!
+I'm now publishing outputs from this project! 
+
+Peer-reviewed and public research outputs derived from Project X, published and archived.
 
 #### Citation
 Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.18663806
