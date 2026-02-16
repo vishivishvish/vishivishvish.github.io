@@ -188,7 +188,6 @@ Peer-reviewed and public research outputs derived from Project X, published and 
 #### Citation
 
 Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. 
-
 Zenodo. https://doi.org/10.5281/zenodo.18663806
 
 ---
