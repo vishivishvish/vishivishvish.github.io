@@ -147,6 +147,8 @@ Let’s see how far it goes.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
 
+I've started publishing outputs from this project!
+
 #### Citation
 Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.18663806
 
