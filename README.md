@@ -1,5 +1,7 @@
 # AI/ML Computational Science Engineer @ Accenture
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
+
 ## Introduction & Purpose
 
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
