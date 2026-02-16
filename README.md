@@ -169,6 +169,18 @@ Let’s see how far it goes.
 
 ---
 
+## Updates
+
+[2026-02-17] — 🧪 X.3 Milestone  
+Published the first research paper from X.3 - Agent Learning Research Track:  
+*Representation Stability in a Minimal Continual Learning Agent*.  
+This marks the first formal research paper output derived from the evolving agent experimentation pipeline.
+
+[2026-02-11] — 🚧 Repository Foundation  
+Established the public Project X structure (X.0–X.5) and deployed the first version of this site via GitHub Pages.
+
+---
+
 ## Research
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
