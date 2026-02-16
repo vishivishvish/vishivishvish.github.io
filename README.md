@@ -92,7 +92,7 @@ This list is not fixed. It is expected to evolve as interests deepen, intersect,
 But Project X is not *just* about breadth of knowledge.  
 It is about ***structuring learning itself***.
 
-The system is organized into five interconnected tracks:
+The system is organized into six interconnected tracks:
 
 ### 📘 X.0 — Formal Learning Track
 
