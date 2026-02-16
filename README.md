@@ -1,7 +1,5 @@
 # AI/ML Computational Science Engineer @ Accenture
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
-
 ## Introduction & Purpose
 
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
@@ -142,3 +140,10 @@ Five years ago, this would have been dismissed as fantasy. That speaks volumes o
 True RSI or not, this is easily the most ambitious, and most fun, system I’ve ever tried to build.
 
 Let’s see how far it goes.
+
+## Research
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663806.svg)](https://doi.org/10.5281/zenodo.18663806)
+
+#### Citation
+Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.xxxxx
