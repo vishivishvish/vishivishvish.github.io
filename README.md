@@ -94,34 +94,34 @@ It is about ***structuring learning itself***.
 
 The system is organized into six interconnected tracks:
 
-### 📘 X.0 — Formal Learning Track
+### 📘 X.1 — Formal Learning Track
 
 A structured, mathematically grounded academic spine.  
 Notes, problem sets, derivations, and long-form technical write-ups live here.
 
-### 🧠 X.1 — Conceptual Learning Track  
+### 🧠 X.2 — Conceptual Learning Track  
 
 Extraction of first principles about learning itself: abstraction, generalization, compression, representation, iteration.  
 This is where meta-learning theory is distilled into research artifacts.
 
-### 🤖 X.2 — Agent Learning Track  
+### 🤖 X.3 — Agent Learning Track  
 
 An evolving “baby_agent” codebase that ingests inputs, runs experiments, and produces measurable outputs.  
 This is where theory meets implementation.
 
-### 📄 X.3 — Agent Learning Research Track 
+### 📄 X.4 — Agent Learning Research Paper Track 
 
-Formal research papers derived from X.2 experiments.  
+Formal research papers derived from X.4 experiments.  
 These are published artifacts — versioned, citable, and public.
 
-### 📈 X.4 — Agent Trading Track  
+### 📈 X.5 — Agent Trading Track  
 
 An applied extension exploring decision systems in financial environments, emphasizing disciplined experimentation and engineering rigor.
 
-### 🔁 X.5 — Recursive Self-Improvement Track  
+### 🔁 X.6 — Recursive Self-Improvement Track  
 
 The integrator.  
-This track consumes outputs from X.0 through X.4 and proposes improvements to the learning agents and trading agents themselves.
+This track consumes outputs from X.1 through X.5 and proposes improvements to the learning agents and trading agents themselves.
 
 This is the attempt to **close the loop** 🔄  
 
@@ -167,13 +167,13 @@ Let’s see how far it goes 🚀
 
 ## Updates
 
-[2026-02-17] — 🧪 X.3 Milestone  
-Published the first research paper from X.3 - Agent Learning Research Track:  
+[2026-02-17] — 🧪 X.4 Milestone  
+Published the first research paper from X.4 - Agent Learning Research Paper Track:  
 *Representation Stability in a Minimal Continual Learning Agent*.  
 This marks the first formal research paper output derived from the evolving agent experimentation pipeline.
 
 [2026-02-11] — 🚧 Repository Foundation  
-Established the public Project X structure (X.0–X.5) and deployed the first version of this site via GitHub Pages.
+Established the public Project X structure (X.1–X.6) and deployed the first version of this site via GitHub Pages.
 
 ---
 
