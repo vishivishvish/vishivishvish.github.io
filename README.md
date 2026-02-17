@@ -183,8 +183,6 @@ Established the public Project X structure (X.0–X.5) and deployed the first ve
 
 I'm now publishing outputs from this project! 
 
-Peer-reviewed and public research outputs derived from Project X, published and archived.
-
 #### Citation
 
 Subramanian, V. (2026). *Representation Stability in a Minimal Continual Learning Agent*. Zenodo. https://doi.org/10.5281/zenodo.18663806
