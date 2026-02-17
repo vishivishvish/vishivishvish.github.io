@@ -111,7 +111,7 @@ This is where theory meets implementation.
 
 ### 📄 X.4 — Agent Learning Research Paper Track 
 
-Formal research papers derived from X.4 experiments.  
+Formal research papers derived from X.3 experiments.  
 These are published artifacts — versioned, citable, and public.
 
 ### 📈 X.5 — Agent Trading Track  
