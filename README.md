@@ -167,12 +167,12 @@ Let’s see how far it goes 🚀
 
 ## Updates
 
-[2026-02-17] — 🧪 X.4 Milestone  
+**[2026-02-17]** — 🧪 X.4 Milestone  
 Published the first research paper from X.4 - Agent Learning Research Paper Track:  
 *Representation Stability in a Minimal Continual Learning Agent*.  
 This marks the first formal research paper output derived from the evolving agent experimentation pipeline.
 
-[2026-02-11] — 🚧 Repository Foundation  
+**[2026-02-11]** — 🚧 Repository Foundation  
 Established the public Project X structure (X.1–X.6) and deployed the first version of this site via GitHub Pages.
 
 ---
