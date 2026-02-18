@@ -1,5 +1,3 @@
-# AI/ML Computational Science Engineer @ Accenture
-
 ## Introduction & Purpose
 
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
