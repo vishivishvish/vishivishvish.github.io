@@ -41,7 +41,7 @@ ul {
   border-radius: 10px;
 }
 
-.card img {
+.card > a > img {
   width: 170px;
   height: 110px;
   object-fit: cover;
