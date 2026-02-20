@@ -74,7 +74,7 @@ ul {
 
 .doi-line {
   display: inline-flex;
-  align-items: center;
+  align-items: baseline;   /* KEY CHANGE */
   gap: 10px;
   margin-top: 8px;
   font-size: 0.9em;
@@ -83,4 +83,6 @@ ul {
 .doi-line img {
   height: 22px;
   width: auto;
+  position: relative;
+  top: 1px;   /* fine-tune vertical alignment */
 }
