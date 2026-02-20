@@ -74,15 +74,15 @@ ul {
 
 .doi-line {
   display: inline-flex;
-  align-items: baseline;   /* KEY CHANGE */
-  gap: 10px;
+  align-items: baseline;
+  gap: 8px;
   margin-top: 8px;
   font-size: 0.9em;
 }
 
 .doi-line img {
-  height: 22px;
+  height: 1.2em;
   width: auto;
   position: relative;
-  top: 1px;   /* fine-tune vertical alignment */
+  top: 1px;
 }
