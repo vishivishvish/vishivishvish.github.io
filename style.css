@@ -50,8 +50,8 @@ ul {
 }
 
 .research-card-image {
-  width: 340px;
-  height: 340px;
+  width: 170px;
+  height: 170px;
   object-fit: cover;
   border-radius: 6px;
   display: block;
@@ -70,4 +70,17 @@ ul {
 
 .card-content p {
   margin: 0;
+}
+
+.doi-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+  font-size: 0.9em;
+}
+
+.doi-line img {
+  height: 22px;
+  width: auto;
 }
