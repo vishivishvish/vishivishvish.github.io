@@ -49,6 +49,12 @@ ul {
   display: block;
 }
 
+.card-content img {
+  width: auto;
+  height: 24px;
+  margin-top: 4px;
+}
+
 .card-content {
   display: flex;
   flex-direction: column;
