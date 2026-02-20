@@ -1,3 +1,37 @@
+/* Hero Section */
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.hero-text h1 {
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 1.1em;
+  opacity: 0.85;
+  margin-top: 6px;
+}
+
+.hero-description {
+  margin-top: 12px;
+  max-width: 600px;
+  line-height: 1.5;
+}
+
+/* Body */
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
                "Helvetica Neue", Arial, sans-serif;
@@ -29,7 +63,7 @@ ul {
   padding-left: 20px;
 }
 
-/* ---------- Cards ---------- */
+/* Cards */
 
 .card {
   display: flex;
