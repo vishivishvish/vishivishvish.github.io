@@ -29,9 +29,9 @@ ul {
   padding-left: 20px;
 }
 
-/* ---------- Talks Section ---------- */
+/* ---------- Cards ---------- */
 
-.talk-card {
+.card {
   display: flex;
   gap: 20px;
   align-items: stretch;
@@ -41,7 +41,7 @@ ul {
   border-radius: 10px;
 }
 
-.talk-card img {
+.card img {
   width: 170px;
   height: 110px;
   object-fit: cover;
@@ -49,17 +49,17 @@ ul {
   display: block;
 }
 
-.talk-content {
+.card-content {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.talk-content h3 {
+.card-content h3 {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-.talk-content p {
+.card-content p {
   margin: 0;
 }
