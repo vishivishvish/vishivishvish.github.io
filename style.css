@@ -28,3 +28,38 @@ a:hover {
 ul {
   padding-left: 20px;
 }
+
+/* ---------- Talks Section ---------- */
+
+.talk-card {
+  display: flex;
+  gap: 20px;
+  align-items: stretch;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #25262b;
+  border-radius: 10px;
+}
+
+.talk-card img {
+  width: 260px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+
+.talk-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.talk-content h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.talk-content p {
+  margin: 0;
+}
