@@ -2,7 +2,7 @@
 
 This repository hosts my personal website, vibe-coded with GPT and built on GitHub Pages.
 
-Check it out @ [vishivishvish.github.io](https://vishivishvish.github.io) :)
+Check it out at [vishivishvish.github.io](https://vishivishvish.github.io) :)
 
 This site is my living portfolio of:
 - 💡 ideas
