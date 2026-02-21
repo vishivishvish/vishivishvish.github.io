@@ -2,6 +2,8 @@
 
 This repository hosts my personal website, built and deployed using GitHub Pages and Agentic AI.
 
+Check it out at vishivishvish.github.io!
+
 This site will serve as a living portfolio of:
 - 💡 ideas
 - 🛠️ projects
