@@ -43,7 +43,7 @@ A few guiding principles:
 
 ## Deployment
 
-The site is deployed via GitHub Pages.
+The site is deployed via GitHub Pages:
 
 - 🌿 Source: `main` branch
 - 📂 Folder: `/ (root)`
