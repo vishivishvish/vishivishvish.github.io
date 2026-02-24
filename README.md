@@ -4,7 +4,7 @@ This repository hosts my personal website, coded with Agentic AI and built on Gi
 
 Check it out at [vishivishvish.github.io](https://vishivishvish.github.io) :)
 
-This site is my living portfolio of:
+This site is not just meant to show my profile. It's a living portfolio of:
 - 💡 ideas
 - 🛠️ projects
 - 🧪 experiments
