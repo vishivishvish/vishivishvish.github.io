@@ -148,15 +148,12 @@ ul {
 
 .doi-line {
   display: inline-flex;
-  align-items: baseline;
-  gap: 8px;
+  align-items: center;
+  gap: 10px;
   margin-top: 8px;
-  font-size: 0.9em;
 }
 
 .doi-line img {
-  height: 1.2em;
+  height: 24px;   /* force same height */
   width: auto;
-  position: relative;
-  top: 1px;
 }
