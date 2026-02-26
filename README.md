@@ -23,24 +23,6 @@ Over time, this site will grow alongside my career, my work, my skills and my in
 
 ---
 
-## Philosophy
-
-A few guiding principles:
-
-- ✨ **Clarity over polish**  
-  Simple HTML, CSS, and content-first design.
-
-- 🧠 **Versioned thinking**  
-  Ideas evolve; Git history captures that evolution.
-
-- 🪶 **Minimal abstraction**  
-  No frameworks initially — fundamentals first.
-
-- 🚀 **Future-compatible**  
-  Designed to integrate with automation, tooling, and agentic workflows later.
-
----
-
 ## Deployment
 
 The site is deployed via GitHub Pages:
