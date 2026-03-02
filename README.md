@@ -1,10 +1,10 @@
 ## Introduction & Purpose
 
-This repository hosts my personal website, coded with Agentic AI and built on GitHub Pages.
+This repository hosts my personal website, pair-programmed with Agentic AI and hosted on GitHub Pages.
 
 Check it out at [vishivishvish.github.io](https://vishivishvish.github.io) :)
 
-This site is not just meant to show my profile. It's a living portfolio of:
+This site is more than just a profile. It's a living portfolio of:
 - 💡 ideas
 - 🛠️ projects
 - 🧪 experiments
