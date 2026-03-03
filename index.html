@@ -5,8 +5,33 @@
     <meta charset="UTF-8">
     <title>Vishnu Subramanian</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+    </script>
   </head>
 
+  <script>
+    var map = L.map('travel-map').setView([20, 0], 2);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Example Pins
+    var locations = [
+    { coords: [19.0760, 72.8777], label: "Mumbai, India 🇮🇳" },
+    { coords: [40.7128, -74.0060], label: "New York, USA 🇺🇸" },
+    { coords: [48.8566, 2.3522], label: "Paris, France 🇫🇷" },
+    { coords: [35.6762, 139.6503], label: "Tokyo, Japan 🇯🇵" }
+    ];
+
+    locations.forEach(function(place) {
+    L.marker(place.coords)
+      .addTo(map)
+      .bindPopup(place.label);
+    });
+  </script>
+  
   <body>
     <!------------------------>
     <!----- Hero Section ----->
@@ -30,7 +55,16 @@
       </div>
 
     </div>
+
+    <!------------------------>
+    <!-- Map Section --->
+    <!------------------------>
     
+    <hr>
+
+    <h1>🌍 Travel</h2>
+
+      <div id="travel-map"></div>
     
     <!------------------------>
     <!-- Project X Section --->
